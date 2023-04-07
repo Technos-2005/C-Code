@@ -1,4 +1,5 @@
 #include<stdio.h>
+// Mate Code
 int main(){
     int i,j,n=20;
     for(i=1;i<=n;i++)
